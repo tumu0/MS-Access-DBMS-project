@@ -1,0 +1,20 @@
+C:\Users\Admin\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Admin\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Admin\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Admin\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\Admin\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Admin\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Admin\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\Admin\Desktop\الجامعة\المشاريع\مشروع مادة برمجة مرئية\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\Admin\Desktop\الجامعة\المشاريع\مشروع مادة برمجة مرئية\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\Admin\Desktop\الجامعة\المشاريع\مشروع مادة برمجة مرئية\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\Admin\Desktop\الجامعة\المشاريع\مشروع مادة برمجة مرئية\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\الجامعة\المشاريع\مشروع مادة برمجة مرئية\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\Admin\Desktop\الجامعة\المشاريع\مشروع مادة برمجة مرئية\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\Admin\Desktop\الجامعة\المشاريع\مشروع مادة برمجة مرئية\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\الجامعة\المشاريع\مشروع مادة برمجة مرئية\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\الجامعة\المشاريع\مشروع مادة برمجة مرئية\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\Admin\Desktop\الجامعة\المشاريع\مشروع مادة برمجة مرئية\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
