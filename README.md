@@ -1,4 +1,4 @@
-# Access-DBMS-project <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
+# MS Access-DBMS-project <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
 المشروع عبارة نظام إدارة قاعدة بيانات، وهو واجهة رسومية تم عملها بواسطة برنامج Visual Studio من نوع windows form وبلغة #C ويتم ربط الواجهة بجدول في قاعدة بيانات في برنامج ACCESS.
 
 
