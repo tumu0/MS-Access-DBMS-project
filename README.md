@@ -35,7 +35,7 @@
 <p align="center">الواجهة الرسومية</p>
 
   
- ## طريقة ربط قاعدة البيانات بالواجهة <img src="https://github.com/tumu0/MS-Access-DBMS-project/assets/165114819/46c2bbae-1d97-477e-9bd2-2829fde3dde0" alt="gif" style="width:65px;height:65px;">
+ ## ربط قاعدة البيانات بالواجهة <img src="https://github.com/tumu0/MS-Access-DBMS-project/assets/165114819/46c2bbae-1d97-477e-9bd2-2829fde3dde0" alt="gif" style="width:65px;height:65px;">
  قم بتعديل السطر الـ 13 في الكود واحذف المسار الموجود ثم أضف المسار الجديد لقاعدة البيانات المسماة (testdb) التي قمت بتنزيلها وسترتبط مباشرة بالجدول (data) الموجود داخلها.
  
  ![‏‏لقطة الشاشة (633)](https://github.com/tumu0/Access-DBMS-project/assets/165114819/f000b4ac-74c5-4a1a-b6ba-e0faa17ebf82)
